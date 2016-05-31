@@ -1,0 +1,29 @@
+{
+  "name": "laravel-elixir-image-optimize",
+  "version": "1.0.0",
+  "description": "Laravel Elixir extension to optimize images with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tecbeast42/laravel-elixir-image-optimize.git"
+  },
+  "keywords": [
+    "laravel",
+    "elixir",
+    "gulp",
+    "image",
+    "optimize"
+  ],
+  "author": "Tobias Kriebisch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tecbeast42/laravel-elixir-image-optimize/issues"
+  },
+  "homepage": "https://github.com/tecbeast42/laravel-elixir-image-optimize#readme",
+  "dependencies": {
+    "gulp-image": "^2.0.0"
+  }
+}
